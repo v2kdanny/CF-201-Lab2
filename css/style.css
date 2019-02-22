@@ -1,0 +1,39 @@
+p {
+    font-family: 'Calibri', serif;
+    font-size: 15px;
+    opacity: 1.0;
+    padding: 5px;
+    color: #78817a;
+}
+h1 {
+    font-family: 'Calibri', sans-serif;
+    font-size: 300%;
+    font-weight: bolder;
+    padding: 10px;
+    background-color: black;
+    color: #78817a;
+}
+h2 {
+    font-family: 'Calibri', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+div.image img {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 500px;
+    float: center;
+    filter: color(100%);    
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
